@@ -1,4 +1,4 @@
-# wavefront-opentracing-bundle-java
+# wavefront-opentracing-bundle-java [![build status][ci-img]][ci] [![Released Version][maven-img]][maven]
 
 ## Table of Content
 * [Prerequisites](#Prerequisites)
